@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-04T15:16:40.467229Z</date>
+  <millis>1680621400467</millis>
+  <nanos>229000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>ex001</class>
+  <method>WriteToLoggerFile</method>
+  <thread>1</thread>
+  <message>запись успешно создана</message>
+</record>
+</log>
